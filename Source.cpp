@@ -10,5 +10,5 @@ int main()
 	win.attach(ii); // в формате jpg
 	win.set_label("best friends");
 	win.wait_for_button();
-
+	cout << "buy";
 };
